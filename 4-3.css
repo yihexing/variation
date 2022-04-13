@@ -1,0 +1,66 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border:4px powderblue;
+    padding:30px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 3;
+    letter-spacing: 2px;
+}
+h1{
+    background-color: powderblue;
+    font-family: monospace;
+    font-size: 30px;
+    border:2px powderblue;
+    padding:30px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 3;
+    letter-spacing: 2px;
+}
+h2{
+    background-color: rebeccapurple;
+    font-family: sans-serif;
+    font-size: 30px;
+    border:2px palevioletred;
+    padding:30px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 3;
+    letter-spacing: 2px;
+}
+h3{
+    background-color: pink;
+    font-family: inherit;
+    font-size: 30px;
+    border:2px powderblue;
+    padding:30px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 3;
+    letter-spacing: 2px;
+}
+h4{
+    background-color: rosybrown;
+    font-family: unset;
+    font-size: 30px;
+    border:2px palegreen;
+    padding:30px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 3;
+    letter-spacing: 2px;
+}
+h5{
+    background-color: blue;
+    font-family: unset;
+    font-size: 30px;
+    border:2px palegreen;
+    padding:30px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 3;
+    letter-spacing: 2px;
+}

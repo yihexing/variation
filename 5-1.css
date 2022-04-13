@@ -1,0 +1,74 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border:4px powderblue;
+    padding:30px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 3;
+    letter-spacing: 2px;
+    text-transform: lowercase;
+    animation: mymove 5s infinite;
+    background-image: url(https://i.pinimg.com/564x/54/0f/a6/540fa667573779358bb68e3271827d6f.jpg);
+}
+h1{
+    background-color: powderblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    border:2px powderblue;
+    padding:30px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 3;
+    letter-spacing: 2px;
+    text-transform: lowercase;
+}
+h2{
+    background-color: powderblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    border:2px powderblue;
+    padding:30px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 3;
+    letter-spacing: 2px;
+    text-transform: lowercase;
+}
+h3{
+    background-color:powderblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    border:2px powderblue;
+    padding:30px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 3;
+    letter-spacing: 2px;
+    text-transform: lowercase;
+}
+h4{
+    background-color: powderblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    border:2px powderblue;
+    padding:30px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 3;
+    letter-spacing: 2px;
+    text-transform: lowercase;
+}
+h5{
+    background-color: powderblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    border:2px powderblue;
+    padding:30px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 3;
+    letter-spacing: 2px;
+    text-transform: lowercase;
+}
